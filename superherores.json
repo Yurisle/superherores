@@ -1,0 +1,41 @@
+{
+  "squadName" : "Super escuadron dragon",
+  "homeTown" : "alcantarillas de la UTFV",
+  "formed" : 2021,
+  "secretBase" : "QUETI",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Juanito iepes",
+      "age" : 19,
+      "secretIdentity" : "Don iepes",
+      "powers" : [
+        "resistencia al alcohol",
+        "no siente dolor",
+        "auto explosion"
+      ]
+    },
+    {
+      "name" : "caristeco martinez",
+      "age" : 45,
+      "secretIdentity" : "el bascas",
+      "powers" : [
+        "dispara acido",
+        "come explosivos",
+        "felxibilidad"
+      ]
+    },
+    {
+      "name" : "la yuris",
+      "age" : 19,
+      "secretIdentity" : "naevis",
+      "powers" : [
+        "Inmortalidad",
+        "inmunidad",
+        "telespartrocion",
+        "awita",
+        "colores"
+      ]
+    }
+  ]
+}
